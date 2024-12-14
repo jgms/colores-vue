@@ -4,6 +4,8 @@
 }
 body{
     font-family:monospace;
+    min-height:100vh;
+    background-image:linear-gradient(to top,#333,#777);
 }
 form{
     position:fixed;
